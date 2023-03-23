@@ -1,0 +1,15 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.9~svn20110310	//
+deQ_f	Program_1.c	/^int deQ_f(int *q){$/;"	f
+deQ_r	Program_1.c	/^int deQ_r(int *q){$/;"	f
+display	Program_1.c	/^int display(int *q){$/;"	f
+enQ_f	Program_1.c	/^int enQ_f(int *q,int num){$/;"	f
+enQ_r	Program_1.c	/^int enQ_r(int *q,int num){$/;"	f
+f	Program_1.c	/^int f=-1,r=-1,size=10;$/;"	v
+main	Program_1.c	/^void main(){$/;"	f
+r	Program_1.c	/^int f=-1,r=-1,size=10;$/;"	v
+size	Program_1.c	/^int f=-1,r=-1,size=10;$/;"	v

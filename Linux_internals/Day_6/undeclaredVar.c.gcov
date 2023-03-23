@@ -1,0 +1,16 @@
+        -:    0:Source:undeclaredVar.c
+        -:    0:Graph:undeclaredVar.gcno
+        -:    0:Data:undeclaredVar.gcda
+        -:    0:Runs:1
+        -:    0:Programs:1
+        -:    1:#include<stdio.h>
+        1:    2:int main(int argc,char *argv[])
+        -:    3:{
+        1:    4:	int a=100;
+        -:    5:	int b[8];
+        1:    6:	printf("Hello c\n");
+        1:    7:	b[1]=100;
+        1:    8:	printf("%d\n",b[1]);
+        1:    9:	return 0;
+        -:   10:
+        -:   11:}

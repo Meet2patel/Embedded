@@ -1,0 +1,32 @@
+Day-1:
+
+vim:
+vim filename	-> to open file
+inside vim
+:q		-> to quit without editing only read
+:q!		-> quit without saving
+:wq		-> Save and quit
+
+h		-> cursor left
+l		-> cursor right
+j		-> cursor down
+k		-> cursor up
+
+v		-> select text
+yy		-> to copy line or selected text
+p		-> paste
+i		-> to enter in insert mode
+x		-> delete in command mode
+u		-> undo
+o		-> add line below cursor + insert mode 
+O		-> add line above cursor + insert mode
+a		-> insert after command cursor + insert mode
+A		-> insert at the end of line + insert mode
+Esc		-> Exit from insert mode
+
+CSCOPE:
+cscope -R	-> create cross reference file with all details
+ctrl+d		-> exit from cscope
+
+ctags:
+ctags  
