@@ -2,7 +2,7 @@
 #include<fcntl.h>
 int main(){
 int fd;
-fd = open("demo.txt",O_RDWR|O_CREAT|O_TRUNC,0660);
+fd = open("demo1.txt",O_RDWR|O_CREAT|O_TRUNC,0660);
 if(fd<0){
 printf("Could not open file \n");
 exit(2);

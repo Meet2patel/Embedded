@@ -5,7 +5,7 @@
 #include<sys/types.h>
 int main(){
 	struct stat st;
-	int fd=open("demo.txt",O_RDONLY);
+	int fd=open("demo1.txt",O_RDONLY);
 	fstat(fd,&st);
 	printf("File size		= %lu\n",(st.st_size));
 	printf("File inode		= %lu\n",st.st_ino);
