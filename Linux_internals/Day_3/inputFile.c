@@ -32,6 +32,7 @@ int main()
         }
         printf("%d",numRead);
     }
+    
     if (numRead == -1)
     {
         return 0;

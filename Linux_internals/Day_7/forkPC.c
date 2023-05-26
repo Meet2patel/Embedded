@@ -15,3 +15,4 @@ int main(){
 		printf("parent process pid = %d\n",getpid());
 		printf("parent parent process ppid = %d\n",getppid());
 	}
+}

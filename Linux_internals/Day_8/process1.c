@@ -7,7 +7,7 @@ int main(){
 
 	if (pid == 0){
 		printf("\nCHILd Process\n");
-		exit(0);
+		exit(1);
 	}
 	pid = wait(&stat);
 	printf("%d\n",WEXITSTATUS(stat));

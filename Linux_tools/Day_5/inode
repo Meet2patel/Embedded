@@ -1,0 +1,9 @@
+total 32
+drwxrwxr-x 2 meet meet 4096 Mar 15 15:17 dependency
+-rw-rw-r-- 1 meet meet   36 Mar 10 15:19 file.h
+-rw-rw-r-- 1 meet meet  253 Mar 10 15:15 first.c
+-rw-rw-r-- 1 meet meet    0 Apr 11 18:12 inode
+-rw-rw-r-- 1 meet meet   69 Mar 15 14:57 Makefile
+-rwxrwxr-x 1 meet meet 8152 Mar 15 14:57 output
+-rw-rw-r-- 1 meet meet   73 Mar 10 15:16 second.c
+-rw-rw-r-- 1 meet meet   74 Mar 10 15:17 sub.c
